@@ -23,9 +23,13 @@ The system is designed to detect vulnerabilities in different assets within the 
 
 **Data Sources Explanation:**
 TENABLE.SC: On-premises vulnerability management platform.
+
 TENABLE.IO: Cloud-based vulnerability management platform.
+
 SIEM: Security information and event management for centralized log analysis.
+
 SCCM: Configuration management and software deployment for Windows systems.
+
 DEFENDER: Microsoft's endpoint protection and antivirus solution.
 SERVICE NOW: IT service management and ticketing system for streamlining workflows.
 ACTIVE DIRECTORY: Directory service for user authentication and centralized management in Windows environments.
