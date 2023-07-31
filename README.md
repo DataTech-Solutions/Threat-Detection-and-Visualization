@@ -31,28 +31,28 @@ SERVICE NOW: IT service management and ticketing system for streamlining workflo
 ACTIVE DIRECTORY: Directory service for user authentication and centralized management in Windows environments.
 
 **TENABLE.SC Data fields Explanation** (as this is the most important data source acting as PARENT and the other data sources IPs are linked to Tenable.sc)
-[IP]: IP address of the asset being assessed.
 
-[PORT]: Port number associated with the vulnerability.
-Protocol: The communication protocol used for the vulnerability.
-Plugin: Unique identifier for the vulnerability plugin.
-DNSName: Domain Name System (DNS) name of the asset.
-NetBIOSName: NetBIOS name of the asset.
-HostName: Hostname of the asset.
-RepositoryID: Identifier for the vulnerability repository.
-MACAddress: Media Access Control (MAC) address of the asset.
-severity: Severity level of the vulnerability.
-SeverityID: Identifier for the vulnerability severity level.
-SeverityName: Name of the vulnerability severity level.
-SeverityDescription: Description of the vulnerability severity level.
-MitigatedFlag: Indicates if the vulnerability has been mitigated.
-RiskAccepted: Indicates if the risk associated with the vulnerability has been accepted.
-RiskRecasted: Indicates if the risk assessment has been recast.
-PluginName: Name of the vulnerability plugin.
-Exploit: Indicates if there is a known exploit for the vulnerability.
-ExploitEase: Indicates the ease of exploitation for the vulnerability.
-ExploitFrameworks: Lists frameworks associated with the vulnerability exploit.
-Synopsis: Summary description of the vulnerability.
+[IP]: IP address of the asset being assessed.   
+[PORT]: Port number associated with the vulnerability.   
+Protocol: The communication protocol used for the vulnerability.   
+Plugin: Unique identifier for the vulnerability plugin.   
+DNSName: Domain Name System (DNS) name of the asset.   
+NetBIOSName: NetBIOS name of the asset.   
+HostName: Hostname of the asset.   
+RepositoryID: Identifier for the vulnerability repository.   
+MACAddress: Media Access Control (MAC) address of the asset.   
+severity: Severity level of the vulnerability.   
+SeverityID: Identifier for the vulnerability severity level.   
+SeverityName: Name of the vulnerability severity level.   
+SeverityDescription: Description of the vulnerability severity level.   
+MitigatedFlag: Indicates if the vulnerability has been mitigated.   
+RiskAccepted: Indicates if the risk associated with the vulnerability has been accepted.   
+RiskRecasted: Indicates if the risk assessment has been recast.   
+PluginName: Name of the vulnerability plugin.   
+Exploit: Indicates if there is a known exploit for the vulnerability.   
+ExploitEase: Indicates the ease of exploitation for the vulnerability.         
+ExploitFrameworks: Lists frameworks associated with the vulnerability exploit.   
+Synopsis: Summary description of the vulnerability.   
 SeeAlso: Additional references or related information for the vulnerability.
 RiskFactor: Indicates the risk factor of the vulnerability.
 StigSeverity: Severity level according to Security Technical Implementation Guide (STIG) standards.
