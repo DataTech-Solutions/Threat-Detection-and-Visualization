@@ -1,5 +1,8 @@
 **Threat Detection (Vulnerabilities) and Viusalization Project**
 
+![Threat Detection Architecture GIF](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/a2e40746-7389-4f29-a778-63b1fdd168cd)
+
+
 The system is designed to detect vulnerabilities in different assets within the organization, remediate those vulnerabilities, and perform other related tasks. Here's a summary of the main criteria and components mentioned:
 1. **Detecting Vulnerabilities and Remediation:** Vulnerabilities are detected from different assets in the organization using API configurations in Azure API Management, Postman, and Azure Data Factory Linked Services. These vulnerabilities are then remediated on a weekly basis.
 
@@ -123,6 +126,6 @@ DMZindicator: Indicates if the asset is in a Demilitarized Zone (DMZ).
 [department_display_value]: Display value of the department or business unit owning or using the configuration item.   
 
 
-![Threat Detection Architecture GIF](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/a2e40746-7389-4f29-a778-63b1fdd168cd)
+
 
 
