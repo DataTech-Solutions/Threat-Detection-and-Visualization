@@ -96,7 +96,7 @@ DMZindicator: Indicates if the asset is in a Demilitarized Zone (DMZ).
 [Category]: Category information for the vulnerability.   
 [Technology]: Technology associated with the vulnerability.   
 
-ServiceNow Fields:
+**ServiceNow Fields:**
 [u_business_criticality_display_value]: Business criticality level of the configuration item.   
 [u_application_details_display_value]: Details of the associated application (if applicable).   
 [ip_address_display_value]: Display value of the IP address associated with the configuration item.   
