@@ -24,7 +24,7 @@ The system is designed to detect vulnerabilities in different assets within the 
 
 **IMPORTANT :** SQL code shared has been written on Azure SQL Database in SSMS as the architecture before didnt have serverless and dedicated sql pool. Later the architecture got changed to meet several criteria (mentioned above). To upgrade the existing SQL coding to use Serverless SQL Pool and Dedicated SQL Pool, you will need to modify the SQL queries and stored procedures accordingly. You'll need to take into account the differences in syntax, capabilities, and performance characteristics between Serverless and Dedicated SQL Pools.Since the code is currently written for Azure SQL Database, you'll have to adapt it to be compatible with the specific features and functionalities offered by Serverless and Dedicated SQL Pools. Additionally, the cost implications and resource allocation between the two pool types should be taken into consideration to optimize the solution for data cleansing, transformation, and final data insertion.
 
-**Tenable.sc Data Sources Explanation:** 
+**Tenable.sc Data Sources Explanation:**    
 TENABLE.SC: On-premises vulnerability management platform.   
 TENABLE.IO: Cloud-based vulnerability management platform.   
 SIEM: Security information and event management for centralized log analysis.   
