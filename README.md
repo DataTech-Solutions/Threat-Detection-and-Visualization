@@ -39,6 +39,23 @@ DEFENDER: Microsoft's endpoint protection and antivirus solution.
 SERVICE NOW: IT service management and ticketing system for streamlining workflows.   
 ACTIVE DIRECTORY: Directory service for user authentication and centralized management in Windows environments.   
 
+**Azure Data Factory API integration with Tenable Director to save data in json file in raw zone in Data Lake and convert it to SQL Database for Power BI Ingestion**
+![7](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/a71a266c-e4a1-4c02-904d-b859e43fa51c)
+![8](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/4f7b779d-7988-4a06-9acc-a4c7266228cd)
+![9](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/86c1b9dd-c1a7-43f4-9186-f9a2ab8ca45a)
+![10](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/5cf7d781-33a7-4242-a919-531f877cba07)
+![11](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/e8d5ae2c-5d58-4f42-861f-5b46fad021bb)
+![12](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/c690d706-031c-4117-b372-7d52f1c6d9bf)
+![13](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/3a9167c2-6926-42c1-9d34-9e11d8b54f69)
+![copydata_insideUntil](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/666402fc-4f29-446e-8d01-0003e264b355)
+![insideUntil](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/5a97b338-6a4e-4430-b23c-bf9f3e534017)
+![Metadata](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/c15502d4-1459-458d-8f47-71c183266564)
+
+**Power BI Dashboard for Vulnerabilities**
+![VulnerabilitiesDashboard](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/3283357a-aa1f-426d-a470-054f418caf35)
+![VulnerabilitiesDashboard_Risk](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/77f0583d-9253-40f1-b2fe-aaa298885558)
+
+
 **TENABLE.SC Data fields Explanation** (as this is the most important data source acting as PARENT and the other data sources IPs are linked to Tenable.sc)
 
 [IP]: IP address of the asset being assessed.   
