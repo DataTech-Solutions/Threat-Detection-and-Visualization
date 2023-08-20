@@ -39,7 +39,7 @@ DEFENDER: Microsoft's endpoint protection and antivirus solution.
 SERVICE NOW: IT service management and ticketing system for streamlining workflows.   
 ACTIVE DIRECTORY: Directory service for user authentication and centralized management in Windows environments.   
 
-**Azure Data Factory API integration with Tenable Director to save data in json file in raw zone in Data Lake and convert it to SQL Database for Power BI Ingestion**
+**Azure Data Factory Tenable Director Pipelines**
 ![7](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/a71a266c-e4a1-4c02-904d-b859e43fa51c)
 ![8](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/4f7b779d-7988-4a06-9acc-a4c7266228cd)
 ![9](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/86c1b9dd-c1a7-43f4-9186-f9a2ab8ca45a)
@@ -51,9 +51,22 @@ ACTIVE DIRECTORY: Directory service for user authentication and centralized mana
 ![insideUntil](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/5a97b338-6a4e-4430-b23c-bf9f3e534017)
 ![Metadata](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/c15502d4-1459-458d-8f47-71c183266564)
 
+
+**ServiceNow Ticket Creation through Azure Data Factory to remediate vulnerabilities**
+![1](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/889b32fb-3dcb-4da1-901a-77cac03d4f54)
+![CopyDataInDataLakeFolderStructure](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/4037b6b1-d216-4417-8419-145f7df462c9)
+![Inside for Each Loop](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/778448c9-03b1-4240-b60f-e40933802551)
+![Lookup from SQL Table as Order BY](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/4d0f36a4-6ced-4c5e-aee4-8e71d13020af)
+![Web Expression inside for each](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/27c76c30-cddf-4968-8471-a62d65a260da)
+![YMD Folder Structure in Data Lake](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/89d33c4f-6654-4f37-95c8-7b684a966240)
+
+
 **Power BI Dashboard for Vulnerabilities**
 ![VulnerabilitiesDashboard](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/3283357a-aa1f-426d-a470-054f418caf35)
 ![VulnerabilitiesDashboard_Risk](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/77f0583d-9253-40f1-b2fe-aaa298885558)
+
+
+**APPENDICES**
 
 
 **TENABLE.SC Data fields Explanation** (as this is the most important data source acting as PARENT and the other data sources IPs are linked to Tenable.sc)
