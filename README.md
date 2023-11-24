@@ -1,4 +1,6 @@
 **Threat (Vulnerabilities) Detection and Remediation Visualization Project**
+![Threat Detection Architecture Final GIF](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/dae71c0f-1b61-438f-afef-c1d0305ae12a)
+
 
 ![Threat Detection Architecture GIF](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/e0583c03-0c7d-42c8-9609-b831aa65f0bc)
 
