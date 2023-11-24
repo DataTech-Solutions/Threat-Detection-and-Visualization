@@ -2,9 +2,6 @@
 ![Threat Detection Architecture Final GIF](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/dae71c0f-1b61-438f-afef-c1d0305ae12a)
 
 
-![Threat Detection Architecture GIF](https://github.com/DataTech-Solutions/Threat-Detection-and-Visualization/assets/140796709/e0583c03-0c7d-42c8-9609-b831aa65f0bc)
-
-
 
 The system is designed to detect vulnerabilities in different assets within the organization, remediate those vulnerabilities, and perform other related tasks. Here's a summary of the main criteria and components mentioned:
 1. **Detecting Vulnerabilities and Remediation:** Vulnerabilities are detected from different assets in the organization using API configurations in Azure API Management, Postman, and Azure Data Factory Linked Services. These vulnerabilities are then remediated on a weekly basis.
